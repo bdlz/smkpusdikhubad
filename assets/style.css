@@ -1129,7 +1129,16 @@ pre
 				height: 800px;
 			 
 			}	
-
+.menu_content3
+			{
+				background-image: url('images/prakerin.jpg');
+				background-repeat: no-repeat;
+				background-position:top center;
+				margin: 5px;
+				width: 1000px;
+				height: 800px;
+			 
+			}	
 
 
 /* begin Footer */
