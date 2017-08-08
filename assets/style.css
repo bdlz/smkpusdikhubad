@@ -1139,7 +1139,16 @@ pre
 				height: 800px;
 			 
 			}	
-
+.menu_content4
+			{
+				background-image: url('images/lowongan.jpg');
+				background-repeat: no-repeat;
+				background-position:top center;
+				margin: 5px;
+				width: 1000px;
+				height: 1500px;
+			 
+			}
 
 /* begin Footer */
 .art-footer
